@@ -64,13 +64,27 @@ But how does the xESC compare to other brushless ESCs on the market? Is it the r
 | -------------------------------------- | ------------------------------------ |
 | ![xESC front](docs/img/xESC_front.png) | ![xESC back](docs/img/xESC_back.png) |
 
+## PIN MAP
+![xESC PIN MAP](docs/img/xESC2_pinmap.png)
+
+## USAGE
+![xESC Usage](docs/img/xESC2_Usage.png)
+
+- You Need 5V additional logic power
+
+
+
 
 
 ## Firmware Features
 
 The xESC2 firmware is based off the current version of the VESC firmware. Therefore it is able to do everything you'd wish your brushless ESC had. Including: FOC, speed control, current limiting, ...
 
-
+## CAN Protocol
+Same as VESC CAN Protocol 
+## Debug Tools
+You can use [VESC_tools](https://vesc-project.com/vesc_tool) for debug 
+(xESC2 based on VESC_firmware)
 
 ## Where can I buy one?
 
