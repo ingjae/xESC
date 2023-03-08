@@ -66,9 +66,9 @@ But how does the xESC compare to other brushless ESCs on the market? Is it the r
 
 ## PIN MAP
 
-| PIN map                                  | Usage                                 |
-| -------------------------------------- | ------------------------------------ |
-| ![xESC PIN MAP](docs/img/xESC2_pinmap.png) | ![xESC Usage](docs/img/xESC2_Usage.png) You need 5V additional logic power |
+| PIN map                                      | Usage                                 |
+| -------------------------------------------- | ------------------------------------- |
+| ![xESC PIN MAP](docs/img/xESC2_pinmap.png)   | ![xESC Usage](docs/img/xESC2_Usage.png) You need 5V additional logic power |
 
 
 
